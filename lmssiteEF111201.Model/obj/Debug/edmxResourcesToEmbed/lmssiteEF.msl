@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="LimsJQModelStoreContainer" CdmEntityContainer="lmssiteEFEntities">
+    <EntitySetMapping Name="JQ_M_MENU">
+      <EntityTypeMapping TypeName="LimsJQModel.JQ_M_MENU">
+        <MappingFragment StoreEntitySet="JQ_M_MENU">
+          <ScalarProperty Name="KID" ColumnName="KID" />
+          <ScalarProperty Name="Menu_No" ColumnName="Menu_No" />
+          <ScalarProperty Name="Menu_Name" ColumnName="Menu_Name" />
+          <ScalarProperty Name="Menu_Level" ColumnName="Menu_Level" />
+          <ScalarProperty Name="Menu_ParentId" ColumnName="Menu_ParentId" />
+          <ScalarProperty Name="Menu_Remark" ColumnName="Menu_Remark" />
+          <ScalarProperty Name="Is_Delete" ColumnName="Is_Delete" />
+          <ScalarProperty Name="Crt_Code" ColumnName="Crt_Code" />
+          <ScalarProperty Name="Crt_Name" ColumnName="Crt_Name" />
+          <ScalarProperty Name="Crt_Time" ColumnName="Crt_Time" />
+          <ScalarProperty Name="Mdf_Code" ColumnName="Mdf_Code" />
+          <ScalarProperty Name="Mdf_Name" ColumnName="Mdf_Name" />
+          <ScalarProperty Name="Mdf_Time" ColumnName="Mdf_Time" />
+          <ScalarProperty Name="Menu_Url" ColumnName="Menu_Url" />
+          <ScalarProperty Name="Menu_Icon" ColumnName="Menu_Icon" />
+          <ScalarProperty Name="VID" ColumnName="VID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

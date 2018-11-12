@@ -1,0 +1,16 @@
+E:\study\lmssiteEF111201\lmssiteEF111201.Bll\bin\Debug\lmssiteEF111201.Bll.dll
+E:\study\lmssiteEF111201\lmssiteEF111201.Bll\bin\Debug\lmssiteEF111201.Bll.pdb
+E:\study\lmssiteEF111201\lmssiteEF111201.Bll\bin\Debug\lmssiteEF111201.Dal.dll
+E:\study\lmssiteEF111201\lmssiteEF111201.Bll\bin\Debug\lmssiteEF111201.Model.dll
+E:\study\lmssiteEF111201\lmssiteEF111201.Bll\bin\Debug\EntityFramework.dll
+E:\study\lmssiteEF111201\lmssiteEF111201.Bll\bin\Debug\lmssiteEF111201.Dal.pdb
+E:\study\lmssiteEF111201\lmssiteEF111201.Bll\bin\Debug\lmssiteEF111201.Dal.dll.config
+E:\study\lmssiteEF111201\lmssiteEF111201.Bll\bin\Debug\lmssiteEF111201.Model.pdb
+E:\study\lmssiteEF111201\lmssiteEF111201.Bll\bin\Debug\lmssiteEF111201.Model.dll.config
+E:\study\lmssiteEF111201\lmssiteEF111201.Bll\bin\Debug\EntityFramework.xml
+E:\study\lmssiteEF111201\lmssiteEF111201.Bll\bin\Debug\zh-Hans\EntityFramework.resources.dll
+E:\study\lmssiteEF111201\lmssiteEF111201.Bll\obj\Debug\lmssiteEF111201.Bll.csprojAssemblyReference.cache
+E:\study\lmssiteEF111201\lmssiteEF111201.Bll\obj\Debug\lmssiteEF111201.Bll.csproj.CoreCompileInputs.cache
+E:\study\lmssiteEF111201\lmssiteEF111201.Bll\obj\Debug\lmssiteEF111201.Bll.csproj.CopyComplete
+E:\study\lmssiteEF111201\lmssiteEF111201.Bll\obj\Debug\lmssiteEF111201.Bll.dll
+E:\study\lmssiteEF111201\lmssiteEF111201.Bll\obj\Debug\lmssiteEF111201.Bll.pdb
